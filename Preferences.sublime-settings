@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_face": "Hack",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"soda_classic_tabs": true,
+	"tab_size": 4,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"preview_on_click":false
+}
