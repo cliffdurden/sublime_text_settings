@@ -2,11 +2,12 @@
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"font_face": "Hack",
 	"font_size": 10,
+	"hot_exit": true
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage"
 	],
+	"remember_open_files": true,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"theme": "SoDaReloaded Dark.sublime-theme",
