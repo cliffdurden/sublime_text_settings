@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"font_face": "Hack",
 	"font_size": 10,
-	"hot_exit": true
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Vintage"
